@@ -1,0 +1,96 @@
+10/04/2017 08:49:02 p.m.;1.00 Requisitos
+10/04/2017 08:49:16 p.m.;1.01 Instalar-el-sistema
+10/04/2017 08:49:27 p.m.;1.02 Primer-Ingreso
+10/04/2017 08:49:34 p.m.;1.03 Configuración-de-sede
+10/04/2017 08:49:47 p.m.;2.04 Plantillas
+10/04/2017 08:49:59 p.m.;2.00 Backup-de-Sistema-CTEC
+10/04/2017 08:50:02 p.m.;2.01 Error - El-sistema-no-muestra-el-menu
+10/04/2017 08:50:08 p.m.;2.02 Configurar-cuenta-de-correo-CTEC
+10/04/2017 08:50:11 p.m.;2.03 Webmail-cuenta-de-correo-CTEC
+10/04/2017 08:50:23 p.m.;1.00 Requisitos
+10/04/2017 08:50:29 p.m.;1.01 Instalar-el-sistema
+10/04/2017 08:50:32 p.m.;1.00 Requisitos
+10/04/2017 11:00:58 p.m.;1.00 Requisitos
+12/04/2017 02:50:21 p.m.;1.00 Requisitos
+12/04/2017 02:57:18 p.m.;2.04 Plantillas
+12/04/2017 03:36:06 p.m.;Trabajo Práctico 1
+12/04/2017 03:36:17 p.m.;Trabajo Práctico 2
+12/04/2017 03:36:37 p.m.;ADICIONAL
+12/04/2017 03:36:45 p.m.;2.00 Backup-de-Sistema-CTEC
+12/04/2017 04:03:43 p.m.;Trabajo Práctico 2
+22/05/2017 20:48:52;Trabajo Práctico 2
+22/05/2017 20:49:42;1.00 Requisitos
+22/05/2017 20:50:23;1.01 Instalar-el-sistema
+22/05/2017 21:11:25;Trabajo Práctico 1
+22/05/2017 21:11:49;Trabajo Práctico 2
+22/05/2017 21:14:30;Trabajo Práctico 1
+22/05/2017 21:14:44;Trabajo Práctico 2
+23/05/2017 5:00:48;Trabajo Práctico 1
+23/05/2017 5:01:10;Trabajo Práctico 2
+23/05/2017 5:09:24;1.00 Requisitos
+23/05/2017 5:09:40;1.01 Instalar-el-sistema
+23/05/2017 5:15:28;1.00 Requisitos
+23/05/2017 5:16:09;1.01 Instalar-el-sistema
+23/05/2017 5:19:26;1.00 Requisitos
+23/05/2017 5:25:19;1.00 Requisitos
+23/05/2017 5:27:54;1.00 Requisitos
+23/05/2017 5:32:06;1.00 Requisitos
+23/05/2017 5:35:55;1.00 Requisitos
+23/05/2017 5:36:08;1.01 Instalar-el-sistema
+23/05/2017 5:36:21;1.00 Requisitos
+23/05/2017 5:37:18;1.00 Requisitos
+23/05/2017 5:38:09;1.00 Requisitos
+23/05/2017 5:39:23;1.01 Instalar-el-sistema
+23/05/2017 5:51:14;1.00 Requisitos
+23/05/2017 5:51:45;1.01 Instalar-el-sistema
+23/05/2017 5:52:34;1.00 Requisitos
+23/05/2017 5:52:38;1.01 Instalar-el-sistema
+23/05/2017 5:52:47;Trabajo Práctico 1
+23/05/2017 6:21:55;1.00 Requisitos
+23/05/2017 6:22:04;Trabajo Práctico 1
+23/05/2017 6:24:21;1.00 Requisitos
+23/05/2017 6:35:09;1.00 Requisitos
+23/05/2017 6:35:21;Trabajo Práctico 1
+23/05/2017 6:35:37;1.01 Instalar-el-sistema
+23/05/2017 6:39:59;1.00 Requisitos
+23/05/2017 6:40:40;Trabajo Práctico 1
+23/05/2017 6:43:19;1.00 Requisitos
+23/05/2017 6:45:26;1.00 Requisitos
+23/05/2017 6:46:57;1.00 Requisitos
+23/05/2017 6:54:48;1.00 Requisitos
+23/05/2017 7:03:23;1.00 Requisitos
+23/05/2017 7:04:53;1.00 Requisitos
+23/05/2017 7:05:30;1.00 Requisitos
+23/05/2017 7:08:46;1.01 Instalar-el-sistema
+23/05/2017 7:08:56;1.00 Requisitos
+23/05/2017 7:10:24;Trabajo Práctico 1
+23/05/2017 7:10:33;1.00 Requisitos
+23/05/2017 7:26:46;1.00 Requisitos
+23/05/2017 7:27:54;1.00 Requisitos
+23/05/2017 7:30:01;1.00 Requisitos
+23/05/2017 7:30:27;Trabajo Práctico 2
+23/05/2017 7:34:29;1.00 Requisitos
+23/05/2017 7:46:26;1.00 Requisitos
+23/05/2017 7:55:33;1.00 Requisitos
+23/05/2017 7:57:35;1.00 Requisitos
+23/05/2017 7:57:58;1.00 Requisitos
+23/05/2017 8:00:28;1.00 Requisitos
+23/05/2017 8:04:40;1.00 Requisitos
+23/05/2017 8:12:58;1.00 Requisitos
+23/05/2017 8:16:05;1.00 Requisitos
+23/05/2017 8:16:21;1.01 Instalar-el-sistema
+23/05/2017 8:16:54;Trabajo Práctico 1
+23/05/2017 8:20:46;1.00 Requisitos
+23/05/2017 8:21:22;1.00 Requisitos
+23/05/2017 8:21:42;Trabajo Práctico 1
+23/05/2017 8:22:51;1.00 Requisitos
+23/05/2017 8:23:51;1.01 Instalar-el-sistema
+23/05/2017 8:25:08;1.00 Requisitos
+23/05/2017 8:37:15;1.00 Requisitos
+23/05/2017 9:50:15;1.00 Requisitos
+23/05/2017 9:52:05;1.00 Requisitos
+23/05/2017 9:59:04;1.00 Requisitos
+23/05/2017 10:02:31;1.00 Requisitos
+23/05/2017 10:08:34;Trabajo Práctico 1
+23/05/2017 10:10:08;1.01 Instalar-el-sistema
+23/05/2017 10:13:06;Trabajo Práctico 2

@@ -1,0 +1,71 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmPrincipal.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmPrincipal.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.GenerateResource.Cache
+C:\Github-Net\cursodvd\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe.config
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\Interop.WMPLib.dll
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\AxInterop.WMPLib.dll
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.ResolveComReference.cache
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.exe
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.pdb
+C:\Github-Net\cursodvd\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe
+C:\Github-Net\cursodvd\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.pdb
+C:\Github-Net\cursodvd\VisualVideoCTEC\bin\Debug\Interop.WMPLib.dll
+C:\Github-Net\cursodvd\VisualVideoCTEC\bin\Debug\AxInterop.WMPLib.dll
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csprojResolveAssemblyReference.cache
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmLogin.resources
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmPrincipal.resources
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.Properties.Resources.resources
+C:\Github-Net\cursodvd\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.GenerateResource.Cache
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe.config
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.pdb
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\bin\Debug\Interop.WMPLib.dll
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\Interop.WMPLib.dll
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.ResolveComReference.cache
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmLogin.resources
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.frmPrincipal.resources
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.Properties.Resources.resources
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.GenerateResource.Cache
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.exe
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.pdb
+C:\Users\EfrainMejiasC\Downloads\CDProyect\Proyecto\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csprojResolveAssemblyReference.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\bin\Debug\VisualVideoCTEC.exe.config
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\Interop.WMPLib.dll
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.csproj.ResolveComReference.cache
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.exe
+C:\Users\EfrainMejiasC\Documents\GitHub\AprendePlus\VisualVideoCTEC\obj\Debug\VisualVideoCTEC.pdb
